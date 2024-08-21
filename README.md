@@ -2,7 +2,7 @@
 
 ### ¿Qué es?
 
-Una plataforma online para poder medir el rendimiento escolar de los estudiantes y para que sus padres esten al tanto
+Una plataforma online para poder medir el rendimiento escolar de los estudiantes y para que sus padres esten al tanto.
 ### ¿Para que?
 El objetivo es lograr facilitar la entrega de las notas y del seguimiento academico a los alumnos y los padres. Además de facilitar la comunicación entre padre y profesor.
 
